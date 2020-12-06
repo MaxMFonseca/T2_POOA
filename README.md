@@ -2,6 +2,7 @@
 
 Integrantes:
   Max Marcio F Santos 758935
+  
   Matheus Schmidt Figueiredo 758616
 
 A ideia central desse projeto é aplicar o princípio aberto-fechado, na prática, usando 

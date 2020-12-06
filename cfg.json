@@ -1,0 +1,9 @@
+{
+    "newsFinders":["TerraFinder", "UolFinder", "OGloboFinder", "EstadaoFinder"],
+    
+    "processors":{
+        "ExportNewsAsCsv": null,
+        "FilterByWord":["covid", "jovens", "idosos", "jogo"],
+        "GetLetterApearingFrequency":["a", "b", "c", "d", "e"]
+    }
+}

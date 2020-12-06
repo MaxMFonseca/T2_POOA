@@ -1,8 +1,8 @@
 # T2_POOA
 
 Integrantes:
-  -Max Marcio F Santos 758935
-  -Matheus Schmidt Figueiredo 758616
+  - Max Marcio F Santos 758935
+  - Matheus Schmidt Figueiredo 758616
 
 A ideia central desse projeto é aplicar o princípio aberto-fechado, na prática, usando 
 "Construir uma ferramenta para encontrar e baixar títulos das notícias do dia, nos principais sites de notícias (G1, UOL, etc)." como contexto.
